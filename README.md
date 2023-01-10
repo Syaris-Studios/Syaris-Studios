@@ -13,7 +13,7 @@
 
 - 🤝 We love to hire under-rated developers to join **Syaris Studios**
 
-- 👨‍💻 Our Site [(Soon)]((Soon))
+- 👨‍💻 Our Site : https://rebrand.ly/syarisstudios
 
 - 💬 Ask us about **lua,roblox,designing**
 
